@@ -1,0 +1,25 @@
+.announcementHover :hover{
+  background-color: #ebf0e6;
+  cursor: pointer;
+}
+.announcementHover+p{
+  display: none;
+}
+.quiz:hover{
+  background-color: #ebf0e6;
+  cursor: pointer;
+}
+.quiz+ol{
+  display: none;
+}
+.bg-purple{
+  background-color: #9a57f2;
+}
+.text-purple{
+  color: #9a57f2;
+}
+.dashboard{
+  border-bottom:1px solid #c0c4cc;
+  color:#a2a3a8;
+}
+
